@@ -31,10 +31,12 @@ The Microsoft Azure Virtual Training Session is a two-day introductory course wh
 
 During this training event, you will explore how to:
 
-Get started with Azure
-Integrate Azure with your existing networks
-Better understand key cloud concepts and core services, including pricing, support and cloud security
-After completing this free training, you’ll be eligible to take the Microsoft Azure Fundamentals certification exam at no cost.
+- Get started with Azure
+- Integrate Azure with your existing networks
+- Better understand key cloud concepts and core services, including pricing, support and cloud security
+- After completing this free training, you’ll be eligible to take the Microsoft Azure Fundamentals certification exam at no cost.
+
+For more information on when the next Virtual Training Session, please check out https://www.microsoft.com/en-ca/sites/microsoft-training-days/azure.aspx
 
 # Resources:
 <a name="usage"></a>
@@ -51,7 +53,7 @@ Here are a list of resources that helped me prepare for the exam:
 
 # Summary:
 <a name="files"></a>
-Getting certified in Microsoft Azure Fundamentals is an achieveable task if you know where to look and how you study. I do think you should do practice exams beforehand because it will help you prepare for the certification. If you have any questions, please feel free to contact me. 
+Getting certified in Microsoft Azure Fundamentals is an achievable task if you know where to look and how you study. I do think you should do practice exams beforehand because it will help you prepare for the certification. If you have any questions, please feel free to contact me. 
 
 
 
