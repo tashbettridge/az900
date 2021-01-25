@@ -24,7 +24,7 @@ For more information, please check out: https://docs.microsoft.com/en-us/learn/c
 3. [ Summary. ](#files)
 
 
-# Azure Virtual Training
+# Azure Virtual Training:
 <a name="desc"></a>
 
 The Microsoft Azure Virtual Training Session is a two-day introductory course where you will learn about cloud computing concepts, models and services, covering topics such as public, private and hybrid cloud, as well as infrastructure as a service, platform as a service and software as a service.
