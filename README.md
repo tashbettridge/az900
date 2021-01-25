@@ -3,12 +3,21 @@
 
 
 <p align="center">
-<img max-height=200 height=200 src=""/>
+<img max-height=200 height=200 src="https://github.com/ciph3rwoman/az900/blob/main/Azure%20Fundamentals.png"/>
 </p>
 
 Recently I took the AZ-900 MSFT Azure Fundamentals Exam. Here is a list of resources that I took to pass the exam in a week. If you want to get certified in Microsoft Azure Fundamentals then all you need to do is focus on a few things to make the journey helpful. 
 
-https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
+The first thing you should do is look at the criteria under skills measured. You are marked on the following:
+
+Describe cloud concepts (20-25%)
+Describe core Azure services (15-20%)
+Describe core solutions and management tools on Azure (10-15%)
+Describe general security and network security features (10-15%)
+Describe identity, governance, privacy, and compliance features (20-25%)
+Describe Azure cost management and Service Level Agreements (10-15%)
+
+For more information, please check out: https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
 
 1. [ Azure Virtual Training. ](#desc)
 2. [ Resources. ](#usage)
@@ -42,7 +51,7 @@ Here are a list of resources that helped me prepare for the exam:
 
 # Summary:
 <a name="files"></a>
-Getting certified in Microsoft Azure Fundamentals is an achieveable task if you know where to look and how you study. I do think you should do practice eams beforehand because it will help you prepare for the certification. If you have any questions, please feel free to contact me. 
+Getting certified in Microsoft Azure Fundamentals is an achieveable task if you know where to look and how you study. I do think you should do practice exams beforehand because it will help you prepare for the certification. If you have any questions, please feel free to contact me. 
 
 
 
