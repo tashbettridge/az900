@@ -10,12 +10,12 @@ Recently I took the AZ-900 MSFT Azure Fundamentals Exam. Here is a list of resou
 
 The first thing you should do is look at the criteria under skills measured. You are marked on the following:
 
-Describe cloud concepts (20-25%)
-Describe core Azure services (15-20%)
-Describe core solutions and management tools on Azure (10-15%)
-Describe general security and network security features (10-15%)
-Describe identity, governance, privacy, and compliance features (20-25%)
-Describe Azure cost management and Service Level Agreements (10-15%)
+- Describe cloud concepts (20-25%)
+- Describe core Azure services (15-20%)
+- Describe core solutions and management tools on Azure (10-15%)
+- Describe general security and network security features (10-15%)
+- Describe identity, governance, privacy, and compliance features (20-25%)
+- Describe Azure cost management and Service Level Agreements (10-15%)
 
 For more information, please check out: https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
 
