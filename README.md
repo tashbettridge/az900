@@ -49,7 +49,7 @@ Here are a list of resources that helped me prepare for the exam:
 - O'reily: https://learning.oreilly.com/videos/microsoft-az-900-certification/10009AZ900454545/10009AZ900454545-AZ900_1
 - Exam Dumps - Testpreptraining: https://www.testpreptraining.com/
 - Exam Dumps - MeasureUp: https://www.measureup.com/ 
-- Exam Dumps - Exam Topic: https://www.examtopics.com/exams/microsoft/az-900/view/2/
+
 
 # Summary:
 <a name="files"></a>
